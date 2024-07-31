@@ -1,0 +1,12 @@
+com.codeforany.trackizer.app-jetified-window-java-1.0.0-beta04-0 C:\Users\CE\.gradle\caches\8.9\transforms\6784ca76801ed1d0f4dc17816127e1e7\transformed\jetified-window-java-1.0.0-beta04\res
+com.codeforany.trackizer.app-jetified-window-1.0.0-beta04-1 C:\Users\CE\.gradle\caches\8.9\transforms\7294778c9ba3aeb2527a5ef3f6df6679\transformed\jetified-window-1.0.0-beta04\res
+com.codeforany.trackizer.app-core-1.6.0-2 C:\Users\CE\.gradle\caches\8.9\transforms\93cc4488bc82f16202a6e9095ca4e0ad\transformed\core-1.6.0\res
+com.codeforany.trackizer.app-jetified-annotation-experimental-1.1.0-3 C:\Users\CE\.gradle\caches\8.9\transforms\bcefb3f11a919bdb5a5f7d98542baf6d\transformed\jetified-annotation-experimental-1.1.0\res
+com.codeforany.trackizer.app-debug-4 C:\Users\CE\Documents\GitHub\miniproject_expensetracker\android\app\src\debug\res
+com.codeforany.trackizer.app-main-5 C:\Users\CE\Documents\GitHub\miniproject_expensetracker\android\app\src\main\res
+com.codeforany.trackizer.app-pngs-6 C:\Users\CE\Documents\GitHub\miniproject_expensetracker\build\app\generated\res\pngs\debug
+com.codeforany.trackizer.app-resValues-7 C:\Users\CE\Documents\GitHub\miniproject_expensetracker\build\app\generated\res\resValues\debug
+com.codeforany.trackizer.app-rs-8 C:\Users\CE\Documents\GitHub\miniproject_expensetracker\build\app\generated\res\rs\debug
+com.codeforany.trackizer.app-mergeDebugResources-9 C:\Users\CE\Documents\GitHub\miniproject_expensetracker\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.codeforany.trackizer.app-mergeDebugResources-10 C:\Users\CE\Documents\GitHub\miniproject_expensetracker\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.codeforany.trackizer.app-merged_res-11 C:\Users\CE\Documents\GitHub\miniproject_expensetracker\build\app\intermediates\merged_res\debug
