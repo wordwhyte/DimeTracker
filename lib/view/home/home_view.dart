@@ -19,7 +19,7 @@ class HomeView extends StatefulWidget {
 class _HomeViewState extends State<HomeView> {
   bool isSubscription = true;
   List subArr = [
-    {"name": "Bolt", "icon": "assets/img/bolt_resized.png", "price": "5.99"},
+    {"name": "Bolt", "icon": "assets/img/bolt_logo.png", "price": "5.99"},
     {
       "name": "YouTube Premium",
       "icon": "assets/img/youtube_logo.png",

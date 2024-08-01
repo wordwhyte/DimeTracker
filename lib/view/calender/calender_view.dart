@@ -22,7 +22,7 @@ class _CalenderViewState extends State<CalenderView> {
   Random random = Random();
 
   List subArr = [
-    {"name": "Bolt", "icon": "assets/img/bolt_resized.png", "price": "5.99"},
+    {"name": "Bolt", "icon": "assets/img/bolt_logo.png", "price": "5.99"},
     {
       "name": "YouTube Premium",
       "icon": "assets/img/youtube_logo.png",

@@ -51,12 +51,12 @@ class TColor {
   static Color get secondaryG50 => const Color(0xff50C8B9);
 
   // Gray scale for background and text
-  static Color get gray => const Color.fromARGB(255, 44, 43, 43); // Dark background
-  static Color get gray80 => const Color.fromARGB(255, 35, 34, 34);
-  static Color get gray70 => const Color.fromARGB(255, 40, 38, 38);
-  static Color get gray60 => const Color(0xff383838);
-  static Color get gray50 => const Color(0xff484848);
-  static Color get gray40 => const Color.fromARGB(255, 201, 200, 200); // Lighter text
+  static Color get gray => const Color.fromARGB(255, 41, 39, 39); // Dark background
+  static Color get gray80 => const Color.fromARGB(255, 152, 65, 65);
+  static Color get gray70 => const Color.fromARGB(255, 24, 21, 21);
+  static Color get gray60 => const Color.fromARGB(255, 55, 53, 53);
+  static Color get gray50 => const Color.fromARGB(255, 40, 38, 38);
+  static Color get gray40 => const Color.fromARGB(255, 43, 42, 42); // Lighter text
   static Color get gray30 => const Color(0xffD9D9D9);
   static Color get gray20 => const Color(0xffEAEAEA);
   static Color get gray10 => const Color(0xffF1F1F1);
