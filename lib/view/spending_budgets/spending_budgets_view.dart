@@ -88,14 +88,14 @@ class _SpendingBudgetsViewState extends State<SpendingBudgetsView> {
                 Column(
                   children: [
                     Text(
-                      "\$82,90",
+                      "₵82,90",
                       style: TextStyle(
                           color: TColor.white,
                           fontSize: 24,
                           fontWeight: FontWeight.w700),
                     ),
                     Text(
-                      "of \$2,0000 budget",
+                      "of ₵2,0000 budget",
                       style: TextStyle(
                           color: TColor.gray30,
                           fontSize: 12,

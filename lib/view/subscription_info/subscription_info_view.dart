@@ -129,7 +129,7 @@ class _SubscriptionInfoViewState extends State<SubscriptionInfoView> {
                                     ),
                                     const ItemRow(
                                       title: "Category",
-                                      value: "Enterteintment",
+                                      value: "Entertaintment",
                                     ),
                                     const ItemRow(
                                       title: "First payment",
@@ -141,7 +141,7 @@ class _SubscriptionInfoViewState extends State<SubscriptionInfoView> {
                                     ),
                                     const ItemRow(
                                       title: "Currency",
-                                      value: "USD (\$)",
+                                      value: "GHS (₵)",
                                     ),
                                   ],
                                 ),

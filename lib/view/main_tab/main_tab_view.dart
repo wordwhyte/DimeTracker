@@ -4,7 +4,6 @@ import 'package:dimetracker/view/add_subscription/add_subscription_view.dart';
 
 import '../../common/color_extension.dart';
 import '../calender/calender_view.dart';
-import '../card/cards_view.dart';
 import '../home/home_view.dart';
 import '../spending_budgets/spending_budgets_view.dart';
 
@@ -102,22 +101,7 @@ class _MainTabViewState extends State<MainTabView> {
                                     : TColor.gray30,
                               ),
                             ),
-                            IconButton(
-                              onPressed: () {
-                                setState(() {
-                                  selectTab = 3;
-                                  currentTabView = const CardsView();
-                                });
-                              },
-                              icon: Image.asset(
-                                "assets/img/creditcards.png",
-                                width: 20,
-                                height: 20,
-                                color: selectTab == 3
-                                    ? TColor.white
-                                    : TColor.gray30,
-                              ),
-                            ),
+                            
                           ],
                         )
                       ],
