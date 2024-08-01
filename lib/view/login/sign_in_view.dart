@@ -29,7 +29,7 @@ class _SignInViewState extends State<SignInView> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              Image.asset("assets/img/app_logo.png",
+              Image.asset("assets/img/dimetracker_logo_final.png",
                   width: media.width * 0.5, fit: BoxFit.contain),
               const Spacer(),
               RoundTextField(

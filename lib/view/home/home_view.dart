@@ -19,7 +19,7 @@ class HomeView extends StatefulWidget {
 class _HomeViewState extends State<HomeView> {
   bool isSubscription = true;
   List subArr = [
-    {"name": "Spotify", "icon": "assets/img/spotify_logo.png", "price": "5.99"},
+    {"name": "Bolt", "icon": "assets/img/bolt_resized.png", "price": "5.99"},
     {
       "name": "YouTube Premium",
       "icon": "assets/img/youtube_logo.png",
@@ -34,7 +34,7 @@ class _HomeViewState extends State<HomeView> {
   ];
 
   List bilArr = [
-    {"name": "Spotify", "date": DateTime(2024, 08, 08), "price": "5.99"},
+    {"name": "Bolt", "date": DateTime(2024, 08, 08), "price": "5.99"},
     {
       "name": "YouTube Premium",
       "date": DateTime(2024, 08, 08),
@@ -108,7 +108,7 @@ class _HomeViewState extends State<HomeView> {
                       SizedBox(
                         height: media.width * 0.05,
                       ),
-                      Image.asset("assets/img/app_logo.png",
+                      Image.asset("assets/img/dimetracker_logo_final.png",
                           width: media.width * 0.25, fit: BoxFit.contain),
                       SizedBox(
                         height: media.width * 0.07,

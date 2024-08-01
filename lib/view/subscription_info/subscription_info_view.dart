@@ -125,11 +125,11 @@ class _SubscriptionInfoViewState extends State<SubscriptionInfoView> {
                                     ),
                                     const ItemRow(
                                       title: "Description",
-                                      value: "Music app",
+                                      value: "Transport app",
                                     ),
                                     const ItemRow(
                                       title: "Category",
-                                      value: "Entertaintment",
+                                      value: "Transport",
                                     ),
                                     const ItemRow(
                                       title: "First payment",

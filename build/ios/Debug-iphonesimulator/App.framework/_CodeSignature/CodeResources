@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		YAmf5/pVIMqgOl0FvxgqhEm3BOk=
+		BeVwYoi9dzhHgHCquJJj5MZqGTE=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		tG9LvegELxkOX+IVXdw1w79wv0g=
+		UnJZvz+do+aZTy5M51aLhSREIzY=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -39,6 +39,10 @@
 		<key>flutter_assets/assets/font/Inter-SemiBold.ttf</key>
 		<data>
 		QxAH2jFt5g2FF0ruybg4m1xz59Y=
+		</data>
+		<key>flutter_assets/assets/img/.DS_Store</key>
+		<data>
+		3y++sUAKzaCQmjLBz2v0kvESHgc=
 		</data>
 		<key>flutter_assets/assets/img/Trash.png</key>
 		<data>
@@ -71,6 +75,10 @@
 		<key>flutter_assets/assets/img/back.png</key>
 		<data>
 		0z6erMDUhkTkh4o+BwbuAmd932s=
+		</data>
+		<key>flutter_assets/assets/img/bolt_resized.png</key>
+		<data>
+		bmtspk+rpy9M7AVd0bxPPRONJRY=
 		</data>
 		<key>flutter_assets/assets/img/bottom_bar_bg.png</key>
 		<data>
@@ -204,10 +212,6 @@
 		<data>
 		pvbTfymnBUwU1lSuPjMuK4XA0Ok=
 		</data>
-		<key>flutter_assets/assets/img/spotify_logo.png</key>
-		<data>
-		L7cwn9gX8GgOU41ZR+uIcEOjkTY=
-		</data>
 		<key>flutter_assets/assets/img/u1.png</key>
 		<data>
 		WGTKAX4fncXKeIU3NsnxtwjNSN0=
@@ -230,7 +234,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		o0+OmrJpbnQIHl23cOoHk988yt8=
+		73TcdkaNO5TnOnkHo5HagaWbiPs=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -251,14 +255,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M5+e4r75C3ip3lb82VKir9hXrmqwTN5rWf0h0TfzT1s=
+			RkQgv2DAdPewWR4jAxpN/avyp06BD8CVq5mbgDgBv8M=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KQ6tyTYT1Z0JtYcNUc4SUfH6Q5+bS3H9clXffBs7h+E=
+			t1UN/oWgbQLXQpxrSCBnxmIlRq1OrAQwfpXzQONfcfk=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -357,6 +361,13 @@
 			<key>hash2</key>
 			<data>
 			eBKBpjzp0+DfabgW12g67hPMRJJBpjmN1N5fKQTfT1I=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/img/bolt_resized.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T3qCOHa/+D64xdsE79n6EMq/hnaGw01lHjCjUxTZn2g=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/img/bottom_bar_bg.png</key>
@@ -590,13 +601,6 @@
 			UzzD4aFH1uE/byjsWLs8ZDGGLHFBzVsMOsYWIdLek+g=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/img/spotify_logo.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YWW99CJ6jJc3C0aKD1u7fyvOaJeTgW9i1MyrSUK4M14=
-			</data>
-		</dict>
 		<key>flutter_assets/assets/img/u1.png</key>
 		<dict>
 			<key>hash2</key>
@@ -636,7 +640,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZD3JNBaArTfkdPAhkCyKuU/qwCFMPmca70lZrj9Q4KY=
+			jet7GHlHTC2axg0dR8eZ/PLKwveKuC/sTgKYUYIJUPc=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

@@ -18,7 +18,7 @@ class _AddSubScriptionViewState extends State<AddSubScriptionView> {
 
   List subArr = [
     {"name": "HBO GO", "icon": "assets/img/hbo_logo.png"},
-    {"name": "Spotify", "icon": "assets/img/spotify_logo.png"},
+    {"name": "Bolt", "icon": "assets/img/bolt_resized.png"},
     {"name": "YouTube Premium", "icon": "assets/img/youtube_logo.png"},
     {
       "name": "Microsoft OneDrive",

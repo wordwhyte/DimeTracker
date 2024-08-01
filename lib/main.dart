@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart' show BuildContext, ColorScheme, MaterialApp, StatelessWidget, ThemeData, Widget, runApp;
 import 'package:dimetracker/common/color_extension.dart';
 import 'package:dimetracker/view/main_tab/main_tab_view.dart';
+//import 'package:dimetracker/view/login/sign_in_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -28,6 +29,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: false,
       ),
       home: const MainTabView(),
+      //home: const SignInView(),
     );
   }
 }
